@@ -406,13 +406,13 @@ Hobbies:
 
 # 🐍 Contribution Snake
 
-> Create a GitHub Action named **snake.yml** inside:
+
 
 ```
 .github/workflows/snake.yml
 ```
 
-Then add this image:
+
 
 
 <p align="center">
