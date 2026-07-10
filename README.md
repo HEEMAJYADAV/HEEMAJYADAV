@@ -398,7 +398,7 @@ Hobbies:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=HEEMAJYADAV&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
@@ -414,13 +414,13 @@ Hobbies:
 
 Then add this image:
 
-```markdown
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/HEEMAJYADAV/HEEMAJYADAV/output/github-contribution-grid-snake.svg"/>
 
 </p>
-```
+
 
 ---
 
